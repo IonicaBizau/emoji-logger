@@ -68,6 +68,10 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`tester`](https://github.com/IonicaBizau/tester#readme)
 
+## Related
+
+ - [`emojic`](https://github.com/IonicaBizau/emojic)
+
 ## License
 
 [MIT][license] © [Ionică Bizău][website]
