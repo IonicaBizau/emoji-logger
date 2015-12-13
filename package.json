@@ -1,0 +1,38 @@
+{
+  "name": "emoji-logger",
+  "version": "1.0.0",
+  "description": "Node.js logging based on log levels and Emoji.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/emoji-logger.git"
+  },
+  "keywords": [
+    "emoji",
+    "logging",
+    "logger",
+    "terminal"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/emoji-logger/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/emoji-logger#readme",
+  "dependencies": {
+    "color-it": "^1.2.0",
+    "deffy": "^2.2.0",
+    "emojic": "^1.1.0",
+    "err": "^1.1.0",
+    "indento": "^1.1.0"
+  },
+  "devDependencies": {
+    "tester": "^1.2.0"
+  },
+  "blah": {
+    "ex_img": "http://i.imgur.com/rp8lm00.png"
+  }
+}
