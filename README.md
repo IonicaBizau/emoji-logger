@@ -1,6 +1,6 @@
 # emoji-logger [![Support this project][donate-now]][paypal-donations]
 
-Node.js logging based on log levels and Emoji.
+Logging library based on flat colors and Emoji.
 
 [![emoji-logger](http://i.imgur.com/rp8lm00.png)](#)
 

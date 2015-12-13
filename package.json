@@ -1,7 +1,7 @@
 {
   "name": "emoji-logger",
   "version": "1.0.0",
-  "description": "Node.js logging based on log levels and Emoji.",
+  "description": "Logging library based on flat colors and Emoji.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
