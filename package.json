@@ -27,7 +27,8 @@
     "deffy": "^2.2.0",
     "emojic": "^1.1.0",
     "err": "^1.1.0",
-    "indento": "^1.1.0"
+    "indento": "^1.1.0",
+    "ul": "^5.2.0"
   },
   "devDependencies": {
     "tester": "^1.2.0"
