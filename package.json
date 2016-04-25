@@ -1,6 +1,6 @@
 {
   "name": "emoji-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Logging library based on flat colors and Emoji.",
   "main": "lib/index.js",
   "scripts": {
@@ -40,5 +40,16 @@
         "[`emojic`](https://github.com/IonicaBizau/emojic)"
       ]
     }
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
