@@ -35,11 +35,9 @@
   },
   "blah": {
     "ex_img": "http://i.imgur.com/rp8lm00.png",
-    "related": {
-      "ul": [
-        "[`emojic`](https://github.com/IonicaBizau/emojic)"
-      ]
-    }
+    "related": [
+        "emojic"
+    ]
   },
   "files": [
     "bin/",
