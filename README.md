@@ -1,5 +1,7 @@
 
-# emoji-logger [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/emoji-logger.svg)](https://www.npmjs.com/package/emoji-logger) [![Downloads](https://img.shields.io/npm/dt/emoji-logger.svg)](https://www.npmjs.com/package/emoji-logger) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# emoji-logger
+
+ [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23e6461a.svg)][patreon] [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/emoji-logger.svg)](https://www.npmjs.com/package/emoji-logger) [![Downloads](https://img.shields.io/npm/dt/emoji-logger.svg)](https://www.npmjs.com/package/emoji-logger) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Logging library based on flat colors and Emoji.
 
@@ -70,6 +72,16 @@ Adds a new logging type.
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+
+## :moneybag: Donations
+
+Another way to support the development of my open-source modules is
+to [set up a recurring donation, via Patreon][patreon]. :rocket:
+
+[PayPal donations][paypal-donations] are appreciated too! Each dollar helps.
+
+Thanks! :heart:
+
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
@@ -80,11 +92,14 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`github-emojify`](https://github.com/IonicaBizau/github-emojifiy#readme)—Emojify your GitHub repository descriptions.
  - [`namly`](https://github.com/IonicaBizau/namly#readme)—A tool for helping you to choose npm package names.
  - [`packy`](https://github.com/IonicaBizau/packy#readme)—Set default fields in your package.json files.
+ - [`pull-from-source`](https://github.com/IonicaBizau/pull-from-source#readme)—Pulls the changes from the source repository in the forked one.
  - [`rucksack`](https://github.com/IonicaBizau/rucksack#readme)—Bundle js files by replacing the require calls in-place.
  - [`tester`](https://github.com/IonicaBizau/tester#readme)—Unit testing made simple and fun: flat colors and emoji in your tests.
+ - [`tester-init`](https://github.com/IonicaBizau/tester-init#readme)—Init tests for tester.
+
 ## :sparkles: Related
 
- - [`emojic`](https://github.com/IonicaBizau/emojic)
+ - [`emojic`](https://github.com/IonicaBizau/emojic#readme)—Emoji in your Node.js command line apps.
 
 
 
@@ -92,6 +107,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 [MIT][license] © [Ionică Bizău][website]
 
+[patreon]: https://www.patreon.com/ionicabizau
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
