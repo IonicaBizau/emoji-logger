@@ -82,20 +82,6 @@ to [set up a recurring donation, via Patreon][patreon]. :rocket:
 
 Thanks! :heart:
 
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
-
- - [`emojer-cli`](https://github.com/IonicaBizau/emojer-cli#readme)—Command line tool for emojer.
- - [`emspect`](https://github.com/mecab/emspect) (by mecab)—EMoji inSPECTor
- - [`gh-notifier`](https://bitbucket.org/IonicaBizau/gh-notifier#readme)—Receive desktop notifications from your GitHub dashboard.
- - [`github-emojify`](https://github.com/IonicaBizau/github-emojifiy#readme)—Emojify your GitHub repository descriptions.
- - [`namly`](https://github.com/IonicaBizau/namly#readme)—A tool for helping you to choose npm package names.
- - [`packy`](https://github.com/IonicaBizau/packy#readme)—Set default fields in your package.json files.
- - [`pull-from-source`](https://github.com/IonicaBizau/pull-from-source#readme)—Pulls the changes from the source repository in the forked one.
- - [`rucksack`](https://github.com/IonicaBizau/rucksack#readme)—Bundle js files by replacing the require calls in-place.
- - [`tester`](https://github.com/IonicaBizau/tester#readme)—Unit testing made simple and fun: flat colors and emoji in your tests.
- - [`tester-init`](https://github.com/IonicaBizau/tester-init#readme)—Init tests for tester.
 
 ## :sparkles: Related
 
