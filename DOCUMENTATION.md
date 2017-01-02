@@ -18,7 +18,7 @@ Writes the input message having the type object.
 - **Object** `type`: The type object.
 - **Object** `override`: An object to override the type object fields.
 
-### `add(type, icon, color, indent, stream)`
+### `add(type, icon, color, indent, stream, boolean)`
 Adds a new logging type.
 
 #### Params
@@ -27,6 +27,7 @@ Adds a new logging type.
 - **String** `color`: The color name (interpreted by [`color-it`](https://github.com/IonicaBizau/node-color-it)).
 - **Number** `indent`: The indent width.
 - **Stream** `stream`: The stream where the messages of this type will be written (default: `process.stdout`).
+- **displayEmoji** `boolean`: If `false`, emojis will not be added in the message. By default, it's `false` on Windows systems and `true` otherwise.
 
 #### Return
 - **Object** The type object.

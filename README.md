@@ -54,7 +54,7 @@ Writes the input message having the type object.
 - **Object** `type`: The type object.
 - **Object** `override`: An object to override the type object fields.
 
-### `add(type, icon, color, indent, stream)`
+### `add(type, icon, color, indent, stream, boolean)`
 Adds a new logging type.
 
 #### Params
@@ -63,6 +63,7 @@ Adds a new logging type.
 - **String** `color`: The color name (interpreted by [`color-it`](https://github.com/IonicaBizau/node-color-it)).
 - **Number** `indent`: The indent width.
 - **Stream** `stream`: The stream where the messages of this type will be written (default: `process.stdout`).
+- **displayEmoji** `boolean`: If `false`, emojis will not be added in the message. By default, it's `false` on Windows systems and `true` otherwise.
 
 #### Return
 - **Object** The type object.
@@ -82,6 +83,20 @@ to [set up a recurring donation, via Patreon][patreon]. :rocket:
 
 Thanks! :heart:
 
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+
+ - [`bloggify-tools`](https://github.com/Bloggify/bloggify-tools)—Interactive command line tool to help you win at Bloggify.
+ - [`emojer-cli`](https://github.com/IonicaBizau/emojer-cli#readme)—Command line tool for emojer.
+ - [`emspect`](https://github.com/mecab/emspect) (by mecab)—EMoji inSPECTor
+ - [`gh-notifier`](https://bitbucket.org/IonicaBizau/gh-notifier#readme)—Receive desktop notifications from your GitHub dashboard.
+ - [`github-emojify`](https://github.com/IonicaBizau/github-emojifiy#readme)—Emojify your GitHub repository descriptions.
+ - [`namly`](https://github.com/IonicaBizau/namly#readme)—A tool for helping you to choose npm package names.
+ - [`packy`](https://github.com/IonicaBizau/packy#readme)—Set default fields in your package.json files.
+ - [`pull-from-source`](https://github.com/IonicaBizau/pull-from-source#readme)—Pulls the changes from the source repository in the forked one.
+ - [`tester`](https://github.com/IonicaBizau/tester#readme)—Unit testing made simple and fun: flat colors and emoji in your tests.
+ - [`tester-init`](https://github.com/IonicaBizau/tester-init#readme)—Init tests for tester.
 
 ## :sparkles: Related
 
