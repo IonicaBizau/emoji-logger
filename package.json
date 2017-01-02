@@ -1,6 +1,6 @@
 {
   "name": "emoji-logger",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Logging library based on flat colors and Emoji.",
   "main": "lib/index.js",
   "scripts": {
