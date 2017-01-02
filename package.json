@@ -4,7 +4,7 @@
   "description": "Logging library based on flat colors and Emoji.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test"
   },
   "repository": {
     "type": "git",
@@ -24,10 +24,11 @@
   "homepage": "https://github.com/IonicaBizau/emoji-logger#readme",
   "dependencies": {
     "color-it": "^1.2.0",
-    "deffy": "^2.2.0",
+    "deffy": "^2.2.2",
     "emojic": "^1.1.0",
     "err": "^1.1.0",
     "indento": "^1.1.0",
+    "is-win": "^1.0.4",
     "ul": "^5.2.0"
   },
   "devDependencies": {
