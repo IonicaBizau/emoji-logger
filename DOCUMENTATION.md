@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Logs the specified message.
 
 #### Params
+
 - **String** `msg`: The message to log.
 - **String** `type`: The message type (default: `"info"`).
 - **Object** `override`: An object to override the type object fields.
@@ -14,6 +15,7 @@ Logs the specified message.
 Writes the input message having the type object.
 
 #### Params
+
 - **String** `msg`: The message to log.
 - **Object** `type`: The type object.
 - **Object** `override`: An object to override the type object fields.
@@ -22,6 +24,7 @@ Writes the input message having the type object.
 Adds a new logging type.
 
 #### Params
+
 - **String** `type`: The log type as string or an object containing:
 - **String** `icon`: The emoji icon name interpreted by [`emojic`](https://github.com/IonicaBizau/emojic).
 - **String** `color`: The color name (interpreted by [`color-it`](https://github.com/IonicaBizau/node-color-it)).
