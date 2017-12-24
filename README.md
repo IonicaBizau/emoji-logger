@@ -12,7 +12,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save emoji-logger
+# Using npm
+npm install --save emoji-logger
+
+# Using yarn
+yarn add emoji-logger
 ```
 
 
